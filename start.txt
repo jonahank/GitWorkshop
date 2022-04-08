@@ -1,1 +1,2 @@
-Something something lalala 
+Hello World!
+This should create merge conflict
