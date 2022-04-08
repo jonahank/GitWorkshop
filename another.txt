@@ -1,1 +1,2 @@
-Something else
+This is my new feature
+I will make pull request from this
